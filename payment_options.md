@@ -1,2 +1,2 @@
 New Payment Option has been added
-Coffehut_Wallet
+"Coffehut_Wallet"
